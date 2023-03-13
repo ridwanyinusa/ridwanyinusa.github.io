@@ -74646,7 +74646,7 @@ $S:446}
 A.IL.prototype={
 I(a){return A.hs(new A.mp(new A.a32(),null),null,null)}}
 A.a32.prototype={
-$2(a,b){var s="assets/assets/html.glb",r=null,q="assets/assets/css.glb",p="assets/assets/js.glb",o="assets/assets/vue.glb",n="assets/assets/dart.glb",m=t.p
+$2(a,b){var s="assets/assets/images/html.glb",r=null,q="assets/assets/images/css.glb",p="assets/assets/images/js.glb",o="assets/assets/images/vue.glb",n="assets/assets/images/dart.glb",m=t.p
 if(b.b<600)return A.ea(A.a([A.dN(A.jA("HTML",r,r,!0,!0,s),100,100),B.a_,A.dN(A.jA("CSS",r,r,!0,!0,q),100,100),B.a_,A.dN(A.jA("JS",r,r,!0,!0,p),100,100),B.a_,A.dN(A.jA("VUE",r,r,!0,!0,o),100,100),B.bj,A.dN(A.jA("DART",r,r,!0,!0,n),100,100)],m),B.L,B.i4,B.u)
 else return A.f9(A.a([A.dN(A.jA("HTML",r,r,!0,!0,s),100,100),B.bj,A.dN(A.jA("CSS",r,r,!0,!0,q),100,100),B.bj,A.dN(A.jA("JS",r,r,!0,!0,p),100,100),B.bj,A.dN(A.jA("VUE",r,r,!0,!0,o),100,100),B.bj,A.dN(A.jA("DART",r,r,!0,!0,n),100,100)],m),B.L,B.i4,B.u)},
 $S:447}
@@ -74660,7 +74660,7 @@ if(A.bz(a,s,r).w.a.a<=700)m.push(B.bF)
 m.push(B.LQ)
 m.push(B.a_)
 if(!(A.bz(a,s,r).w.a.a<=700))m.push(A.auG(B.TC,new A.a4F(),A.arF(s,s,B.bu,s,s,s,s,s,s,s,s,s,B.hm,s,s,s,s,s,s)))
-return new A.nD(q,A.mW(B.bN,A.a([new A.rs(p,B.e3,s),o,A.rc(A.f9(A.a([new A.cL(B.bf,A.ea(m,B.ah,B.i4,B.u),s),new A.xk(1,B.bx,A.dN(A.jA("A 3D model",!0,B.HB,!0,!0,"/assets/assets/system.glb"),1/0,1/0),s)],n),B.L,B.D,B.u),1)],n),B.wD),s)}}
+return new A.nD(q,A.mW(B.bN,A.a([new A.rs(p,B.e3,s),o,A.rc(A.f9(A.a([new A.cL(B.bf,A.ea(m,B.ah,B.i4,B.u),s),new A.xk(1,B.bx,A.dN(A.jA("A 3D model",!0,B.HB,!0,!0,"/assets/assets/images/system.glb"),1/0,1/0),s)],n),B.L,B.D,B.u),1)],n),B.wD),s)}}
 A.a4F.prototype={
 $0(){},
 $S:0}
