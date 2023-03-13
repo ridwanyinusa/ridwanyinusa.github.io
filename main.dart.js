@@ -74655,12 +74655,12 @@ I(a){return A.f9(A.a([this.c,B.dP,A.bE(this.d,null,null,A.ac(a).p3.x,null)],t.p)
 A.J2.prototype={
 I(a){return new A.cL(B.bf,A.bz(a,null,t.w).w.a.a<=700?B.DY:B.Nk,null)}}
 A.J4.prototype={
-I(a){var s=null,r=t.w,q=A.bz(a,s,r).w.a.a<=500?2.5:3,p=A.awc(s,s,new A.qx("assets/assets/images/bg1.jpg",s,s)),o=A.cH(s,s,B.k,A.aB(168,25,25,35),s,s,s,s,s,s,s,s,s),n=t.p,m=A.a([A.bE("Discover my Amazing \nArt Space!",s,s,A.bz(a,s,r).w.a.a>=1024?A.ac(a).p3.c.Ms(B.i,B.aT):A.ac(a).p3.f.Ms(B.i,B.aT),s)],n)
+I(a){var s=null,r=t.w,q=A.bz(a,s,r).w.a.a<=500?2.5:3,p=A.awc(s,s,new A.qx("assets/images/bg1.jpg",s,s)),o=A.cH(s,s,B.k,A.aB(168,25,25,35),s,s,s,s,s,s,s,s,s),n=t.p,m=A.a([A.bE("Discover my Amazing \nArt Space!",s,s,A.bz(a,s,r).w.a.a>=1024?A.ac(a).p3.c.Ms(B.i,B.aT):A.ac(a).p3.f.Ms(B.i,B.aT),s)],n)
 if(A.bz(a,s,r).w.a.a<=700)m.push(B.bF)
 m.push(B.LQ)
 m.push(B.a_)
 if(!(A.bz(a,s,r).w.a.a<=700))m.push(A.auG(B.TC,new A.a4F(),A.arF(s,s,B.bu,s,s,s,s,s,s,s,s,s,B.hm,s,s,s,s,s,s)))
-return new A.nD(q,A.mW(B.bN,A.a([new A.rs(p,B.e3,s),o,A.rc(A.f9(A.a([new A.cL(B.bf,A.ea(m,B.ah,B.i4,B.u),s),new A.xk(1,B.bx,A.dN(A.jA("A 3D model",!0,B.HB,!0,!0,"/assets/assets/images/system.glb"),1/0,1/0),s)],n),B.L,B.D,B.u),1)],n),B.wD),s)}}
+return new A.nD(q,A.mW(B.bN,A.a([new A.rs(p,B.e3,s),o,A.rc(A.f9(A.a([new A.cL(B.bf,A.ea(m,B.ah,B.i4,B.u),s),new A.xk(1,B.bx,A.dN(A.jA("A 3D model",!0,B.HB,!0,!0,"assets/assets/images/system.glb"),1/0,1/0),s)],n),B.L,B.D,B.u),1)],n),B.wD),s)}}
 A.a4F.prototype={
 $0(){},
 $S:0}
