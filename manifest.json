@@ -1,7 +1,7 @@
 {
     "name": "portfolio",
     "short_name": "portfolio",
-    "start_url": "/web/index.html",
+    "start_url": "./index.html",
     "display": "standalone",
     "background_color": "#1E1E28",
     "theme_color": "#1E1E28",
